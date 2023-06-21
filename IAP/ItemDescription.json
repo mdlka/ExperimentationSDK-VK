@@ -2,7 +2,7 @@
     {
         "title": "testItem1",
         "price": 1,
-        "photo_url": "",
+        "photo_url": "https://github.com/mdlka/ExperimentationSDK-VK/blob/main/IAP/ItemsImages/Item1_0.png",
         "discount": 0,
         "item_id": "testItem1",
         "expiration": 3600
@@ -10,7 +10,7 @@
     {
         "title": "testItem2",
         "price": 2,
-        "photo_url": "",
+        "photo_url": "https://github.com/mdlka/ExperimentationSDK-VK/blob/main/IAP/ItemsImages/Item1_1.png",
         "discount": 0,
         "item_id": "testItem2",
         "expiration": 3600
@@ -18,7 +18,7 @@
     {
         "title": "testItem3",
         "price": 3,
-        "photo_url": "",
+        "photo_url": "https://github.com/mdlka/ExperimentationSDK-VK/blob/main/IAP/ItemsImages/Item1_2.png",
         "discount": 0,
         "item_id": "testItem3",
         "expiration": 3600
