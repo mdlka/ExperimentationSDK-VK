@@ -1,9 +1,9 @@
 [
     {
         "title": "testItem1",
-        "price": 1,
+        "price": 2,
         "photo_url": "https://raw.githubusercontent.com/mdlka/ExperimentationSDK-VK/main/IAP/ItemsImages/Item1_0.png",
-        "discount": 0,
+        "discount": 1,
         "item_id": "testItem1",
         "expiration": 3600
     },
